@@ -1,0 +1,60 @@
+{
+    "fired": [
+        "discharged",
+        "dismissed",
+        "laid-off",
+        "pink-slipped"
+    ],
+    "revolver": [
+        "six-gun",
+        "six-shooter",
+        "revolving door",
+        "door",
+        "handgun",
+        "pistol",
+        "shooting iron",
+        "side arm"
+    ],
+    "kill": [
+        "putting to death",
+        "murder",
+        "assassinate",
+        "eliminate"
+    ],
+    "death": [
+        "decease",
+        "expiry",
+        "dying",
+        "demise",
+        "last",
+        "Death",
+        "end",
+        "destruction",
+        "alteration",
+        "change",
+        "ending",
+        "imaginary being",
+        "imaginary creature",
+        "kill",
+        "killing",
+        "modification",
+        "organic phenomenon",
+        "putting to death",
+        "state"
+    ],
+    "buried": [
+        "inhumed",
+        "interred"
+    ],
+    "victim": [
+        "dupe",
+        "individual",
+        "mortal",
+        "person",
+        "somebody",
+        "someone",
+        "soul",
+        "unfortunate",
+        "unfortunate person"
+    ]
+}

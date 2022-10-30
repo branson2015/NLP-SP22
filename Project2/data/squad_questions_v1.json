@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is his education?",
+              "id": 536371,
+              "answers": [
+                {
+                  "answer_id": 609381,
+                  "document_id": 1142133,
+                  "question_id": 536371,
+                  "text": "I chose medicine",
+                  "answer_start": 168,
+                  "answer_end": 184,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When was he on the boat?",
+              "id": 536372,
+              "answers": [
+                {
+                  "answer_id": 609382,
+                  "document_id": 1142133,
+                  "question_id": 536372,
+                  "text": "August 12",
+                  "answer_start": 460,
+                  "answer_end": 469,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How old is he?",
+              "id": 536373,
+              "answers": [
+                {
+                  "answer_id": 609383,
+                  "document_id": 1142133,
+                  "question_id": 536373,
+                  "text": "twenty-four",
+                  "answer_start": 1003,
+                  "answer_end": 1014,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "By the bequest of an elder brother, I was left enough money to see me\nthrough a small college in Ohio, and to secure me four years in a\nmedical school in the East. Why I chose medicine I hardly know.\nPossibly the career of a surgeon attracted the adventurous element in\nme. Perhaps, coming of a family of doctors, I merely followed the line\nof least resistance. It may be, indirectly but inevitably, that I might\nbe on the yacht Ella on that terrible night of August 12, more than a\nyear ago.\n\nI got through somehow. I played quarterback on the football team, and\nmade some money coaching. In summer I did whatever came to hand, from\nchartering a sail-boat at a summer resort and taking passengers, at so\nmuch a head, to checking up cucumbers in Indiana for a Western pickle\nhouse.\n\nI was practically alone. Commencement left me with a diploma, a new\ndress-suit, an out-of-date medical library, a box of surgical\ninstruments of the same date as the books, and an incipient case of\ntyphoid fever.\n\nI was twenty-four, six feet tall, and forty inches around the chest.\nAlso, I had lived clean, and worked and played hard. I got over the\nfever finally, pretty much all bone and appetite; but—alive. Thanks to\nthe college, my hospital care had cost nothing. It was a good thing: I\nhad just seven dollars in the world.\n\nThe yacht Ella lay in the river not far from my hospital windows. She\nwas not a yacht when I first saw her, nor at any time, technically,\nunless I use the word in the broad sense of a pleasure-boat. She was a\ntwo-master, and, when I saw her first, as dirty and disreputable as are\nmost coasting-vessels. \n",
+          "document_id": 1142133
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How was he killed?",
+              "id": 536377,
+              "answers": [
+                {
+                  "answer_id": 609389,
+                  "document_id": 1142135,
+                  "question_id": 536377,
+                  "text": "He had been almost cut to pieces",
+                  "answer_start": 270,
+                  "answer_end": 302,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was the murder weapon?",
+              "id": 536378,
+              "answers": [
+                {
+                  "answer_id": 609390,
+                  "document_id": 1142135,
+                  "question_id": 536378,
+                  "text": "an axe",
+                  "answer_start": 308,
+                  "answer_end": 314,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where did the murder take place?",
+              "id": 536379,
+              "answers": [
+                {
+                  "answer_id": 609391,
+                  "document_id": 1142135,
+                  "question_id": 536379,
+                  "text": " his bunk",
+                  "answer_start": 61,
+                  "answer_end": 70,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "His door was open an inch or so. I went in and felt my way to his bunk.\nI could hear him breathing, a stertorous respiration like that of\nsleep, and yet unlike. The moment I touched him, the sound ceased, and\ndid not commence again. I struck a match and bent over him.\n\nHe had been almost cut to pieces with an axe.\n\n\n\n\nThe match burnt out, and I dropped it. I remember mechanically\nextinguishing the glowing end with my heel, and then straightening to\nsuch a sense of horror as I have never felt before or since. I groped\nfor the door; I wanted air, space, the freedom from lurking death of\nthe open deck.\n\nI had been sleeping with my revolver beside me on the pantry floor.\nSomehow or other I got back there and found it. I made an attempt to\nfind the switch for the cabin lights, and, failing, revolver in hand, I\nran into the chart-room and up the after companionway. Charlie Jones\nwas at the wheel, and by the light of a lantern I saw that he was\nbending to the right, peering in at the chartroom window. He turned\nwhen he heard me.\n\n“What’s wrong?” he asked. “I heard a yell a minute ago. Turner on the\nrampage?” He saw my revolver then, and, letting go the wheel, threw up\nboth his hands. “Turn that gun away, you fool!”\n\nI could hardly speak. I lowered the revolver and gasped: “Call the\ncaptain! Vail’s been murdered!\n\n“Good God!” he said. “Who did it?” He had taken the wheel again, and\nwas bringing the ship back to her course. I was turning sick and dizzy,\nand I clutched at the railing of the companionway.\n\n“I don’t know. Where’s the captain?”\n",
+          "document_id": 1142135
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where is Charlie Jones from?",
+              "id": 536374,
+              "answers": [
+                {
+                  "answer_id": 609386,
+                  "document_id": 1142134,
+                  "question_id": 536374,
+                  "text": " German",
+                  "answer_start": 260,
+                  "answer_end": 267,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How would Charlie Jones be described?",
+              "id": 536375,
+              "answers": [
+                {
+                  "answer_id": 609385,
+                  "document_id": 1142134,
+                  "question_id": 536375,
+                  "text": "He was a benevolent little man, highly religious, and something\nof a philosopher",
+                  "answer_start": 354,
+                  "answer_end": 434,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where are they in this scene?",
+              "id": 536376,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Turner had gone below, grimly good-humored, to dress for dinner; and I\nwent aft to chat, as I often did, with the steersman. On this occasion\nit happened to be Charlie Jones. Jones was not his name, so far as I\nknow. It was some inordinately long and different German inheritance,\nand so, with the facility of the average crew, he had been called\nJones. He was a benevolent little man, highly religious, and something\nof a philosopher. And because I could understand German, and even essay\nit in a limited way, he was fond of me.\n\n“Setz du dich,” he said, and moved over so that I could sit on the\ngrating on which he stood. “The sky is fine to-night. Wunderschon!”\n\n“It always looks good to me,” I observed, filling my pipe and passing\nmy tobacco-bag to him. “I may have my doubts now and then on land,\nCharlie; but here, between the sky and the sea, I’m a believer, right\nenough.”\n\n“‘In the beginning He created the heaven and the earth,’” said Charlie\nreverently.\n\nWe were silent for a time. The ship rolled easily; now and then she\ndipped her bowsprit with a soft swish of spray; a school of dolphins\nplayed astern, and the last of the land birds that had followed us out\nflew in circles around the masts.\n\n“Sometimes,” said Charlie Jones, “I think the Good Man should have left\nit the way it was after the flood—just sky and water. What’s the land,\nanyhow? Noise and confusion, wickedness and crime, robbing the widow\nand the orphan, eat or be et.”\n\n“Well,” I argued, “the sea’s that way. What are those fish out there\nflying for, but to get out of the way of bigger fish?”\n\nCharlie Jones surveyed me over his pipe.\n",
+          "document_id": 1142134
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where was the bell coming form?",
+              "id": 536380,
+              "answers": [
+                {
+                  "answer_id": 609393,
+                  "document_id": 1142137,
+                  "question_id": 536380,
+                  "text": "from the room\nadjoining Turner’s, where Vail slept",
+                  "answer_start": 126,
+                  "answer_end": 176,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Whose body was laying on the ground?",
+              "id": 536381,
+              "answers": [
+                {
+                  "answer_id": 609392,
+                  "document_id": 1142137,
+                  "question_id": 536381,
+                  "text": "the body of the Danish girl was lying as it\nhad fallen",
+                  "answer_start": 983,
+                  "answer_end": 1037,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who did Charlie Jones intend to kill?",
+              "id": 536382,
+              "answers": [
+                {
+                  "answer_id": 609394,
+                  "document_id": 1142137,
+                  "question_id": 536382,
+                  "text": "Mrs. Sloane",
+                  "answer_start": 1344,
+                  "answer_end": 1355,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The stewardess was wide awake by that time. She thought perhaps the\nbell, instead of coming from Mrs. Turner’s room, had come from the room\nadjoining Turner’s, where Vail slept, and which had been originally\ndesigned for Mrs. Turner. She suggested turning on the light again and\nlooking at the bell register; but Karen objected.\n\nThe stewardess sat up in her bed, which was the one under the small\nwindow opening on the deck aft. She could not see through the door\ndirectly, but a faint light came through the doorway as Karen opened\nthe door.\n\nThe girl stood there, looking out. Then suddenly she threw up her hands\nand screamed, and the next moment there was a blow struck. She\nstaggered back a step or two, and fell into the room. The stewardess\nsaw a white figure in the doorway as the girl fell. Almost instantly\nsomething whizzed by her, striking the end of a pillow and bruising her\narm. She must have fainted. When she recovered, faint daylight was\ncoming into the room, and the body of the Danish girl was lying as it\nhad fallen.\n\nShe tried to get up, and fainted again.\n\nThat was her story, and it did not tell us much that we needed to know.\nShe showed me her right arm, which was badly bruised and discolored at\nthe shoulder.\n\n“What do you mean by a white figure?”\n\n“It looked white: it seemed to shine.”\n\n“When I went to call you, Mrs. Sloane, the door to your room was\nclosed.”\n\n“I saw it closed!” she said positively. “I had forgotten that, but now\nI remember. The axe fell beside me, and I tried to scream, but I could\nnot. I saw the door closed, very slowly and without a sound. Then I\nfainted.”\n",
+          "document_id": 1142137
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who murdered him?",
+              "id": 536383,
+              "answers": [
+                {
+                  "answer_id": 609396,
+                  "document_id": 1142138,
+                  "question_id": 536383,
+                  "text": "It was Charlie Jones",
+                  "answer_start": 0,
+                  "answer_end": 20,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When was he at the wheel?",
+              "id": 536384,
+              "answers": [
+                {
+                  "answer_id": 609395,
+                  "document_id": 1142138,
+                  "question_id": 536384,
+                  "text": "He was at the wheel from midnight until four in the morning on the\nnight of the murders",
+                  "answer_start": 1143,
+                  "answer_end": 1230,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who did Charlie Jones intend to kill?",
+              "id": 536385,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "It was Charlie Jones.\n\nThat, after all, is the story. Jones was a madman, a homicidal maniac\nof the worst type. Always a madman, the homicidal element of his\ndisease was recurrent and of a curious nature.\n\nHe thought himself a priest of heaven, appointed to make ghastly\nsacrifices at certain signals from on high. The signals I am not sure\nof; he turned taciturn after his capture and would not talk. I am\ninclined to think that a shooting star, perhaps in a particular quarter\nof the heavens, was his signal. This is distinctly possible, and is\nmade probable by the stars which he had painted with tar on his\nsacrificial robe.\n\nThe story of the early morning of August 12 will never be fully known;\nbut much of it, in view of our knowledge, we were able to reconstruct.\nThus—Jones ate his supper that night, a mild and well-disposed\nindividual. During the afternoon before, he had read prayers for the\nsoul of Schwartz, in whose departure he may or may not have had a part.\nI am inclined to think not, Jones construing his mission as being one\nto remove the wicked and the oppressor, and Schwartz hardly coming\nunder either classification.\n\nHe was at the wheel from midnight until four in the morning on the\nnight of the murders. At certain hours we believe that he went forward\nto the forecastle-head, and performed, clad in his priestly robe, such\ndevotions as his disordered mind dictated. It is my idea that he\nlooked, at these times, for a heavenly signal, either a meteor or some\nstrange appearance of the heavens. It was known that he was a poor\nsleeper, and spent much time at night wandering around.\n",
+          "document_id": 1142138
+        }
+      ]
+    }
+  ]
+}
